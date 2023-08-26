@@ -9,6 +9,8 @@ The predictions are biased towards the majority class:
 
 ![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/8371dc20-e4c5-4892-88d3-6b06363447e2)
 
+Undersampling with RandomUnderSampler:
+
 ![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/b85e8db3-d865-496d-a9ef-00ea04803710)
 
 ![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/de44f150-3ee6-430f-8838-d3ed65cc3287)
