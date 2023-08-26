@@ -13,6 +13,8 @@ Undersampling with RandomUnderSampler:
 
 ![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/b85e8db3-d865-496d-a9ef-00ea04803710)
 
+The predictions get more balanced:
+
 ![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/de44f150-3ee6-430f-8838-d3ed65cc3287)
 
 
