@@ -5,6 +5,8 @@ The data for the "Poor" and "Good" classes are much less than the "Standard" cla
 
 ![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/6c813e3b-db69-4e4f-82cf-1396865347d4)
 
+The predictions are biased towards the majority class:
+
 ![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/8371dc20-e4c5-4892-88d3-6b06363447e2)
 
 ![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/b85e8db3-d865-496d-a9ef-00ea04803710)
