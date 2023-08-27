@@ -3,19 +3,20 @@ Imbalanced data commonly exist in real world, especially in anomaly-detection ta
 
 The data for the "Poor" and "Good" classes are much less than the "Standard" class:
 
-![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/6c813e3b-db69-4e4f-82cf-1396865347d4)
+![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/4e80a7ee-6d10-4083-aeac-f987fc7c1076)
 
 The predictions are biased towards the majority class:
 
-![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/8371dc20-e4c5-4892-88d3-6b06363447e2)
+![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/99396b5a-d95b-4ecd-8076-e0b6cbc4176a)
 
 Undersampling with RandomUnderSampler:
 
-![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/b85e8db3-d865-496d-a9ef-00ea04803710)
+![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/2210f4e7-9837-42f4-a95e-58beef162993)
 
 The predictions get more balanced:
 
-![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/de44f150-3ee6-430f-8838-d3ed65cc3287)
+![image](https://github.com/hanfei1986/Undersampling-of-imbalanced-data-with-RandomUnderSampler-and-others/assets/59255164/d9359296-a55b-4379-a394-3b2a76a009d4)
+
 
 
 
